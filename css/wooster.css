@@ -271,6 +271,7 @@ header .container .drawer span:last-of-type {
 .landing {
   padding-top: 25px;
   background-image: url("../images/landing.jpg");
+  background-position: center;
   background-size: cover;
 }
 
