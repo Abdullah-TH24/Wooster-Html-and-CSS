@@ -191,6 +191,12 @@ header .container ul li a {
   color: var(--primary-color);
 }
 
+@media (min-width: 768px) {
+  header .container ul li a {
+    color: var(--forth-color);
+  }
+}
+
 @media (max-width: 767px) {
   header .container ul li a:hover {
     padding-left: 25px;
